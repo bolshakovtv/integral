@@ -1,0 +1,35 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="web.bolshakov" resolutions="1x" timestamp="1584812252273">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="218145881" ref="index"/>
+    <file name="testovoe.css" crc="4193191577" ref="testovoe"/>
+    <file name="res.css" crc="4066956779" ref="res"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="res:index:testovoe"/>
+    <file name="museutils.js" crc="3803043152" ref="res:index:testovoe"/>
+    <file name="whatinput.js" crc="86476730" ref="res:index:testovoe"/>
+    <file name="museconfig.js" crc="380897831" ref="res:index:testovoe"/>
+    <file name="jquery.watch.js" crc="99325471" ref="res:index:testovoe"/>
+    <file name="require.js" crc="4157109226" ref="res:index:testovoe"/>
+  </folder>
+  <folder name="images">
+    <file name="91b284bd-5113-4dca-8741-c14b45be0792.jpg" crc="3992526256" seo="true" ref="res">
+      <caption webpage="res" alt=""/>
+    </file>
+    <file name="u143-4.png" crc="4191124503" ref="res"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u181_states.png" crc="312805596" ref="index"/>
+    <file name="u181_states-r.png" crc="4130112526" ref="index"/>
+    <file name="u181_states-m.png" crc="4005587870" ref="index"/>
+    <file name="u188_states.png" crc="4202959505" ref="index"/>
+    <file name="u188_states-r.png" crc="95701488" ref="index"/>
+    <file name="u188_states-m.png" crc="268452931" ref="index"/>
+    <file name="term23.jpg" crc="3812584938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="res.html" crc="402422989" seo="true" mt="1584812232487" redirect="true"/>
+  <file name="index.html" crc="4204546720" seo="true" mt="1584794983027" redirect="true"/>
+  <file name="testovoe.html" crc="3892407026" seo="true" mt="1584788752507" redirect="false"/>
+</manifest>

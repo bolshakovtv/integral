@@ -1,0 +1,10 @@
+version: '3'
+services:
+  app-server:
+    build: ./app/
+  web-server:
+    build: ./web-bolshakov/
+    ports:
+      - "80:8080"
+    depends_on:
+      - app-server

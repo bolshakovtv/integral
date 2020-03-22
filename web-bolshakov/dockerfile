@@ -1,0 +1,7 @@
+FROM nginx
+MAINTAINER t.bolshakov
+RUN rm /etc/nginx/nginx.conf
+RUN rm /etc/nginx/conf.d/*
+RUN mkdir -p /sites/
+COPY . /sites/
+COPY nginx.conf /etc/nginx/
